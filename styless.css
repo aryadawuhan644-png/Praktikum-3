@@ -1,0 +1,38 @@
+div h3 {
+    background-color: blueviolet;
+    color: aliceblue;
+    width: auto;
+    height: 150px;
+    text-align: center;
+}
+
+div h2 { 
+    color: #ff5e00;
+    text-align: center;
+    height: auto;
+    width: auto;
+   
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+
+.kotak {
+    margin: auto;
+    border-spacing: 10px;
+    width: auto;
+    height: auto;
+}
+.kotak td {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 2px solid rgb(231, 231, 231);
+}
+body {
+    background-color: azure;
+}
